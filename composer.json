@@ -1,0 +1,19 @@
+{
+    "name": "neha/cms",
+    "description": "A short description of what your package does",
+    "require": {
+        "phpmailer/phpmailer": "^6.2",
+        "pusher/pusher-php-server": "^4.1"
+    },
+    "autoload": {
+        "classmap": [
+            "classes"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Neha Soni",
+            "email": "sonineha14092000@gmail.com"
+        }
+    ]
+}
